@@ -1,0 +1,23 @@
+# practice
+
+begining:
+
+without vite:
+npx create-react-app folder_name
+cd folder_name
+npm start
+
+with vite:
+npm create vite@latest folder_name
+npm install
+npm run dev //to run
+
+folder is created in C:\user\Hp\folder_name
+
+github push:
+ git init
+ git remote add origin https://github.com/username/reponame.git
+ git add .
+ git commit -m "First commit"
+ git branch -M main
+ git push -u origin main
